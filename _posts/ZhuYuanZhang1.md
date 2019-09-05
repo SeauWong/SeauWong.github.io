@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "V辣说《朱元璋传》（1）"
-subtitle: "Speed reading「Zhu Yuanzhang's Biography」(1)"
+title: "V辣说朱元璋传"
+subtitle: "Zhu Yuanzhang's Biograph"
 author: "WongCU"
 header-style: text
 tags:
