@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "V辣说「朱元璋」传"
-subtitle: 'Open file with terminal Vim from the macOS Finder'
-author: "W"
+subtitle: 'Zhu Yuanzhang Biography'
+author: "WongCU"
 header-style: text
 tags:
   - V辣说
