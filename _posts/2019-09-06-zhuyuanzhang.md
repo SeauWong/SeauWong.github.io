@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2把「终端下的 Vim」作为 macOS Finder 的打开方式"
+title: "V辣说「朱元璋」传"
 subtitle: 'Open file with terminal Vim from the macOS Finder'
 author: "Hux"
 header-style: text
